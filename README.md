@@ -1,8 +1,8 @@
 # Hi there, I'm Marcos 👋
 
 
-### Facts About Me
-Auburn University Data Analytic Bootcamp Graduate #### 👨🏽‍🎓
+## Facts About Me
+#### Auburn University Data Analytic Bootcamp Graduate 👨🏽‍🎓
 
 <!--
 **marcosx1099/marcosx1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
