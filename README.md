@@ -2,7 +2,7 @@
 
 
 ## Facts About Me
- Auburn University Data Analytic Bootcamp Graduate 👨🏽‍🎓  
+ Auburn University Data Analytic Bootcamp Graduate 👨🏽‍🎓📜  
  Bachelors in Computer Science 💻👨‍🔬  
  Think data, think success.🧠📈  
  Active Lifestyle 🏋️‍♂️🥊  
