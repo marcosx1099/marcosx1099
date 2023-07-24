@@ -2,11 +2,11 @@
 
 
 ## Facts About Me
- Auburn University Data Analytic Bootcamp Graduate 👨🏽‍🎓
- Bachelors in Computer Science 💻👨‍🔬
- Think data, think success.🧠📈
- Active Lifestyle 🏋️‍♂️🥊
- New York 🗽🍎
+ Auburn University Data Analytic Bootcamp Graduate 👨🏽‍🎓  
+ Bachelors in Computer Science 💻👨‍🔬  
+ Think data, think success.🧠📈  
+ Active Lifestyle 🏋️‍♂️🥊  
+ New York 🗽🍎  
 <!--
 **marcosx1099/marcosx1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
